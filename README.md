@@ -43,7 +43,11 @@ import abdal_net_py
 
 
 ## ❤️ Donation
-> Donate link: https://donate.abdalagency.ir/
+> USDT:      TXLasexoQTjKMoWarikkfYRYWWXtbaVadB
+
+> bitcoin:   19LroTSwWcEBY2XjvgP6X4d6ECZ17U2XsK
+
+> For Iranian People -> MellatBank : 6104-3378-5301-4247
 
 
 ## Reporting Issues 
