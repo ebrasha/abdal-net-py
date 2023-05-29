@@ -5,6 +5,7 @@ setup.cfg
 setup.py
 abdal_net_py/__init__.py
 abdal_net_py/abdal_net_py_about.py
+abdal_net_py/abdal_net_py_admin.py
 abdal_net_py/abdal_net_py_generator.py
 abdal_net_py/abdal_net_py_loger.py
 abdal_net_py/abdal_net_py_unit.py

@@ -43,28 +43,30 @@ import abdal_net_py
 
 
 ## ❤️ Donation
+
 > USDT:      TXLasexoQTjKMoWarikkfYRYWWXtbaVadB
 
-> bitcoin:   19LroTSwWcEBY2XjvgP6X4d6ECZ17U2XsK
+> BTC :   bc1q9w9ymgz2wluax60rsuza4q0at7gpy82g8el6zj
+
+> ETH :   0x402b9f67091Af07224286F16d7377bc50268Db94
 
 > For Iranian People -> MellatBank : 6104-3378-5301-4247
 
+## 🤵 Programmer
+Ebrahim Shafiei (EbraSha)
 
-## Reporting Issues 
+E-Mail = Prof.Shafiei@Gmail.com
 
-If you are facing a configuration issue or something is not working as you expected to be, please use the **Abdal.Group@Gmail.Com** or **Prof.Shafiei@Gmail.com** . Issues on GitLab are also welcomed.
-
-
-
-
-### About Programmer
-Ebrahim Shafiei (EbraSha) (Ready to cooperate with international projects)
-- Email : Prof.Shafiei@Gmail.com
+Telegram: https://t.me/ProfShafiei
 
 
 ## License
 Abdal Net Py is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
 
+
+## ☠️ Reporting Issues
+
+If you are facing a configuration issue or something is not working as you expected to be, please use the **Prof.Shafiei@Gmail.com** . Issues on GitLab are also welcomed.
 
 ## ⚠️ Legal disclaimer ⚠️
 

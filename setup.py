@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = "2.2"
+VERSION = "2.6"
 DESCRIPTION = 'Powerful security network package'
 LONG_DESCRIPTION = 'Powerful security network package for hackers and all security experts'
 
