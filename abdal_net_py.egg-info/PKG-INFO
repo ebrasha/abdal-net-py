@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: abdal-net-py
-Version: 2.7
+Version: 2.9
 Summary: Powerful security network package
 Home-page: https://github.com/abdal-security-group/abdal-net-py
 Author: Ebrahim Shafiei (EbraSha)
@@ -57,6 +57,12 @@ Powerful security network package for hackers and all security experts
 
 ```py
 pip install abdal-net-py
+```
+
+**How To upgrade**
+
+```py
+pip install abdal-net-py -U
 ```
 
 **How To use**
