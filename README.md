@@ -35,6 +35,12 @@ Powerful security network package for hackers and all security experts
 pip install abdal-net-py
 ```
 
+**How To upgrade**
+
+```py
+pip install abdal-net-py -U
+```
+
 **How To use**
 
 ```py
