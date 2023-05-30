@@ -38,7 +38,7 @@ pip install abdal-net-py
 **How To upgrade**
 
 ```py
-pip install abdal-net-py -U
+pip install abdal-net-py --upgrade
 ```
 
 **How To use**
