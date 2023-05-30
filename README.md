@@ -27,7 +27,7 @@ Powerful security network package for hackers and all security experts
 - multi password generator 
 - log writer + logging ram and cpu usage
 - iranian mobile phone generate
-- 
+- Check script permission on Windows device
 
 **How To install**
 
